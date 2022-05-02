@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravijeet Kumar
+- 👋 Hi, I’m Ravijeet Kumar  - Data Scientist and ML Engineer 
 - 👀 I’m interested in building AI Products be it using Deep Learning & ML 
 - 🌱 I’m currently learning new skills in ML system design
 - 💞️ I’m looking to collaborate on projects in Computer Vision and NLP
