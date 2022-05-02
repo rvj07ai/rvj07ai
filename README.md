@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rvj07ai
+- 👋 Hi, I’m Ravijeet Kumar
 - 👀 I’m interested in building AI Products
 - 🌱 I’m currently learning new skills in the field of Deep Learning , ML and  ML system design
 - 💞️ I’m looking to collaborate on projects in Computer Vision and NLP
