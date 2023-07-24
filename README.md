@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravijeet Kumar  - Applied Data Scientist and ML Engineer 
 - 👀 I’m interested in building AI Products be it using Deep Learning & ML 
-- 🌱 I’m currently learning new developments in Generative AI space
+- 🌱 I’m currently working on new developments in Generative AI with LLMs
 - 💞️ I’m looking to collaborate on projects in the area of Computer Vision and NLP
 - 📫 How to reach me : ravijeet882846@gmail.com
 
